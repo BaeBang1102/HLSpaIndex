@@ -58,7 +58,7 @@
                             <a href="#services">DỊCH VỤ</a>
                         </li>
                         <li>
-                            <a href="#menuCard">GIÁ DỊCH VỤ</a>
+                            <a href="#menuCard">BẢNG GIÁ</a>
                         </li>
                         <li>
                             <a href="#portfolio">BỘ SƯU TẬP</a>
@@ -290,7 +290,7 @@
 
                 <!-- Section Header -->
                 <div class="col-md-12 col-sm-12 col-xs-12 section-header wow fadeInDown">
-                    <h2><span class="highlight-text">Giá dịch vụ</span></h2>
+                    <h2><span class="highlight-text">Bảng giá</span></h2>
 
                     <p class="col-md-8 col-sm-10 col-xs-12 col-md-offset-2 col-sm-offset-1">Lorem ipsum dolor sit amet,
                         consectetur adipisicing elit. Quod, nam corporis quas, saepe minima error aperiam dolorum
@@ -796,7 +796,8 @@
                             </div>
 
                             <div class="col-md-8 col-md-offset-2"><br>
-                                <div id="success"> </div><button type="submit" class="btn btn-primary">Gửi tin nhắn</button>
+                                <div id="success"> </div><button type="submit" class="btn btn-primary">Gửi tin
+                                    nhắn</button>
                             </div>
                         </form>
                     </div>
@@ -837,7 +838,32 @@
         </div>
     </section>
 
+       <!-- Messenger Code -->
+    <!-- Load Facebook SDK for JavaScript -->
+    <div id="fb-root"></div>
+    <script>
+        window.fbAsyncInit = function () {
+            FB.init({
+                xfbml: true,
+                version: 'v5.0'
+            });
+        };
 
+        (function (d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s);
+            js.id = id;
+            js.src = 'https://connect.facebook.net/vi_VN/sdk/xfbml.customerchat.js';
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
+    </script>
+
+    <!-- Your customer chat code -->
+    <div class="fb-customerchat" attribution=setup_tool page_id="416574625471840" theme_color="#722626"
+        logged_in_greeting="Xin chào! Chúng tôi có thể giúp gì cho bạn?"
+        logged_out_greeting="Xin chào! Chúng tôi có thể giúp gì cho bạn?">
+    </div>
     <footer>
 
         <div class="container">
