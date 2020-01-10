@@ -94,7 +94,7 @@ h2{
 
 h3{
 	font-size: 28px;
-	color: #000000;
+	color: rgba(114, 38, 38, 1);
 	padding: 20px 0;
 }
 
@@ -129,7 +129,7 @@ a{
 	-ms-transition: all .3s;
 	-o-transition: all .3s;
 	transition: all .3s;
-	color: #4c9040;
+	color: rgba(114, 38, 38, 1);
 }
 
 a:hover,
@@ -351,7 +351,7 @@ a:active{
 	font-size:52px;
 	margin: 10px 0 20px;
 	display: inline-block;
-	color: #80cc0c;
+	color: rgba(114, 38, 38, 1);
 }
 .text-primary {
     color: #000 !important;
@@ -880,7 +880,7 @@ header.page-header .main-menu.minified{
 	padding: 10px 20px;
 	display: inline-block;
 	margin: 0 8px !important;
-	border: 1px solid #4c9040;
+	border: 1px solid rgba(114, 38, 38, 1);
 }
 
 .portfolio-filter-btn-group ul li a:hover{
@@ -2038,7 +2038,7 @@ footer ul li a i{
     width: 100%;
     text-align: right;
     padding: 8px 10px;
-    background: rgb(88, 163, 85);
+    background: rgba(114, 38, 38, 0.81);
   }
 .navbar-brand img{
 	margin:0;
