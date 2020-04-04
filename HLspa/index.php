@@ -218,7 +218,7 @@
                         <div class="col-md-4 col-sm-4 col-xs-12 text-xs-center wow fadeInDown" data-wow-delay=".2s">
                             <div class="service-box">
                                 <div class="icon">
-                                    <h3><a href="spa_price.php"></a> Spa</h3>
+                                    <h3><a href="spa_price.php">Spa</a></h3>
                                 </div>
 
                                 <p>Chăm sóc da, giảm béo và phun xăm thẩm mỹ</p>
@@ -230,7 +230,7 @@
                         <div class="col-md-4 col-sm-4 col-xs-12 text-xs-center wow fadeInDown" data-wow-delay=".2s">
                             <div class="service-box">
                                 <div class="icon">
-                                    <h3><a href="makeup_price.php"></a> Make up </h3>
+                                    <h3><a href="makeup_price.php">Make up</a></h3>
                                 </div>
 
                                 <p>Trang điểm chuyên nghiệp</p>
