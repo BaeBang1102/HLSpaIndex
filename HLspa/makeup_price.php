@@ -305,7 +305,7 @@
 
     <!-- Messenger Code -->
     <!-- Load Facebook SDK for JavaScript -->
-    <!-- <div id="fb-root"></div>
+    <div id="fb-root"></div>
     <script>
         window.fbAsyncInit = function () {
             FB.init({
@@ -322,13 +322,13 @@
             js.src = 'https://connect.facebook.net/vi_VN/sdk/xfbml.customerchat.js';
             fjs.parentNode.insertBefore(js, fjs);
         }(document, 'script', 'facebook-jssdk'));
-    </script> -->
+    </script>
 
     <!-- Your customer chat code -->
-    <!-- <div class="fb-customerchat" attribution=setup_tool page_id="416574625471840" theme_color="#722626"
+    <div class="fb-customerchat" attribution=setup_tool page_id="416574625471840" theme_color="#722626"
         logged_in_greeting="Xin chào! Chúng tôi có thể giúp gì cho bạn?"
         logged_out_greeting="Xin chào! Chúng tôi có thể giúp gì cho bạn?">
-    </div> -->
+    </div>
     <footer>
 
         <div class="container">
