@@ -49,7 +49,7 @@
                 <div class="collapse navbar-toggleable-sm" id="collapsingNavbar">
                     <ul class="nav navbar-nav">
                         <li class="active">
-                            <a href="#slider">TRANG CHỦ</a>
+                            <a href="index.php">TRANG CHỦ</a>
                         </li>
                         <li>
                             <a href="#about">VỀ CHÚNG TÔI</a>
@@ -380,16 +380,16 @@
                     </div><!-- /row -->
                     <!-- Phun thêu -->
                     <div class="menu row">
-                    <div class="col-md-6 wow fadeInRight animated"
+                        <div class="col-md-6 wow fadeInRight animated"
                             style="visibility: visible; animation-name: fadeInRight;">
                             <div class="menu-column">
                             <h1 class="highlight-text" style="text-align: center; color: rgba(114, 38, 38, 1)" >Phun thêu</h1>
                                 <div class="food">
                                     <div class="food-desc">
-                                        <h6 class="food-name">Triệt lông mép</h6>
+                                        <h6 class="food-name">Phun mày Ombre</h6>
                                         <div class="dots"></div>
                                         <div class="food-price">
-                                            <span>300k</span>
+                                            <span>500k</span>
                                         </div><!-- /food-price -->
                                     </div><!-- /food-desc -->
                                     <div class="food-details">
@@ -398,10 +398,10 @@
                                 </div><!-- /food -->
                                 <div class="food">
                                     <div class="food-desc">
-                                        <h6 class="food-name">Triệt lông nách</h6>
+                                        <h6 class="food-name">Phun mày tán bột nano</h6>
                                         <div class="dots"></div>
                                         <div class="food-price">
-                                            <span>400k</span>
+                                            <span>800k</span>
                                         </div><!-- /food-price -->
                                     </div><!-- /food-desc -->
                                     <div class="food-details">
@@ -410,31 +410,7 @@
                                 </div><!-- /food -->
                                 <div class="food">
                                     <div class="food-desc">
-                                        <h6 class="food-name">Triệt lông mặt</h6>
-                                        <div class="dots"></div>
-                                        <div class="food-price">
-                                            <span>1000k</span>
-                                        </div><!-- /food-price -->
-                                    </div><!-- /food-desc -->
-                                    <div class="food-details">
-                                        <span>Liệu trình 10 buổi & bảo hành trọn đời</span>
-                                    </div><!-- /food-details -->
-                                </div><!-- /food -->
-                                <div class="food">
-                                    <div class="food-desc">
-                                        <h6 class="food-name">Triệt lông nửa tay</h6>
-                                        <div class="dots"></div>
-                                        <div class="food-price">
-                                            <span>1200k</span>
-                                        </div><!-- /food-price -->
-                                    </div><!-- /food-desc -->
-                                    <div class="food-details">
-                                        <span>Liệu trình 10 buổi & bảo hành trọn đời</span>
-                                    </div><!-- /food-details -->
-                                </div><!-- /food -->
-                                <div class="food">
-                                    <div class="food-desc">
-                                        <h6 class="food-name">Triệt lông cả tay</h6>
+                                        <h6 class="food-name">Phun môi colagen ngọc trai</h6>
                                         <div class="dots"></div>
                                         <div class="food-price">
                                             <span>1500k</span>
@@ -446,10 +422,10 @@
                                 </div><!-- /food -->
                                 <div class="food">
                                     <div class="food-desc">
-                                        <h6 class="food-name">Triệt lông nửa chân</h6>
+                                        <h6 class="food-name">Phun môi vi chạm</h6>
                                         <div class="dots"></div>
                                         <div class="food-price">
-                                            <span>1500k</span>
+                                            <span>2000k</span>
                                         </div><!-- /food-price -->
                                     </div><!-- /food-desc -->
                                     <div class="food-details">
@@ -458,10 +434,10 @@
                                 </div><!-- /food -->
                                 <div class="food">
                                     <div class="food-desc">
-                                        <h6 class="food-name">Triệt lông cả chân</h6>
+                                        <h6 class="food-name">Xóa xăm mày</h6>
                                         <div class="dots"></div>
                                         <div class="food-price">
-                                            <span>1800k</span>
+                                            <span>500k</span>
                                         </div><!-- /food-price -->
                                     </div><!-- /food-desc -->
                                     <div class="food-details">
@@ -470,10 +446,10 @@
                                 </div><!-- /food -->
                                 <div class="food">
                                     <div class="food-desc">
-                                        <h6 class="food-name">Triệt bikini</h6>
+                                        <h6 class="food-name">Xóa xăm môi</h6>
                                         <div class="dots"></div>
                                         <div class="food-price">
-                                            <span>1000k</span>
+                                            <span>500k</span>
                                         </div><!-- /food-price -->
                                     </div><!-- /food-desc -->
                                     <div class="food-details">
@@ -482,10 +458,10 @@
                                 </div><!-- /food -->
                                 <div class="food">
                                     <div class="food-desc">
-                                        <h6 class="food-name">Triệt lông toàn thân</h6>
+                                        <h6 class="food-name">Xóa xăm mí</h6>
                                         <div class="dots"></div>
                                         <div class="food-price">
-                                            <span>10000k</span>
+                                            <span>500k</span>
                                         </div><!-- /food-price -->
                                     </div><!-- /food-desc -->
                                     <div class="food-details">
@@ -494,9 +470,246 @@
                                 </div><!-- /food -->
                             </div><!-- /menu-column -->
                         </div><!-- /col-md-6 -->
-                    </div>
-                </div><!-- /menu-carousel -->
-            </div><!-- /menus-container -->
+                        <div class="col-md-6 wow fadeInLeft animated"
+                                style="visibility: visible; animation-name: fadeInLeft;">
+                                <div class="menu-column">
+                                <h1 class="highlight-text" style="text-align: center; color: rgba(114, 38, 38, 1)" >Điều trị da</h1>
+                                    <div class="food">
+                                        <div class="food-desc">
+                                            <h6 class="food-name">Phi kim căng bóng da trắng hồng</h6>
+                                            <div class="dots"></div>
+                                            <div class="food-price">
+                                                <span>1200k</span>
+                                            </div><!-- /food-price -->
+                                        </div><!-- /food-desc -->
+                                        <div class="food-details">
+                                            <span>Liệu trình 10 buổi & bảo hành trọn đời</span>
+                                        </div><!-- /food-details -->
+                                    </div><!-- /food -->
+                                    <div class="food">
+                                        <div class="food-desc">
+                                            <h6 class="food-name">Phi kim thu nhỏ lỗ chân lông</h6>
+                                            <div class="dots"></div>
+                                            <div class="food-price">
+                                                <span>1200k</span>
+                                            </div><!-- /food-price -->
+                                        </div><!-- /food-desc -->
+                                        <div class="food-details">
+                                            <span>Liệu trình 10 buổi & bảo hành trọn đời</span>
+                                        </div><!-- /food-details -->
+                                    </div><!-- /food -->
+                                    <div class="food">
+                                        <div class="food-desc">
+                                            <h6 class="food-name">Phi kim điều trị mụn thâm</h6>
+                                            <div class="dots"></div>
+                                            <div class="food-price">
+                                                <span>1200k</span>
+                                            </div><!-- /food-price -->
+                                        </div><!-- /food-desc -->
+                                        <div class="food-details">
+                                            <span>Liệu trình 10 buổi & bảo hành trọn đời</span>
+                                        </div><!-- /food-details -->
+                                    </div><!-- /food -->
+                                    <div class="food">
+                                        <div class="food-desc">
+                                            <h6 class="food-name">Phi kim điều trị nám</h6>
+                                            <div class="dots"></div>
+                                            <div class="food-price">
+                                                <span>1200k</span>
+                                            </div><!-- /food-price -->
+                                        </div><!-- /food-desc -->
+                                        <div class="food-details">
+                                            <span>Liệu trình 10 buổi & bảo hành trọn đời</span>
+                                        </div><!-- /food-details -->
+                                    </div><!-- /food -->
+                                    <div class="food">
+                                        <div class="food-desc">
+                                            <h6 class="food-name">Phi kim điều trị sẹo lỗ</h6>
+                                            <div class="dots"></div>
+                                            <div class="food-price">
+                                                <span>1500k</span>
+                                            </div><!-- /food-price -->
+                                        </div><!-- /food-desc -->
+                                        <div class="food-details">
+                                            <span>Liệu trình 10 buổi & bảo hành trọn đời</span>
+                                        </div><!-- /food-details -->
+                                    </div><!-- /food -->
+                                    <div class="food">
+                                        <div class="food-desc">
+                                            <h6 class="food-name">Vi kim nano</h6>
+                                            <div class="dots"></div>
+                                            <div class="food-price">
+                                                <span>1500k</span>
+                                            </div><!-- /food-price -->
+                                        </div><!-- /food-desc -->
+                                        <div class="food-details">
+                                            <span>Liệu trình 10 buổi & bảo hành trọn đời</span>
+                                        </div><!-- /food-details -->
+                                    </div><!-- /food -->
+                                    <div class="food">
+                                        <div class="food-desc">
+                                            <h6 class="food-name">Lazer điều trị tàn nhang, đồi mồi</h6>
+                                            <div class="dots"></div>
+                                            <div class="food-price">
+                                                <span>500k</span>
+                                            </div><!-- /food-price -->
+                                        </div><!-- /food-desc -->
+                                        <div class="food-details">
+                                            <span>Liệu trình 10 buổi & bảo hành trọn đời</span>
+                                        </div><!-- /food-details -->
+                                    </div><!-- /food -->
+                                    <div class="food">
+                                        <div class="food-desc">
+                                            <h6 class="food-name">Điều trị mụn thịt</h6>
+                                            <div class="dots"></div>
+                                            <div class="food-price">
+                                                <span>200k</span>
+                                            </div><!-- /food-price -->
+                                        </div><!-- /food-desc -->
+                                        <div class="food-details">
+                                            <span>Liệu trình 10 buổi & bảo hành trọn đời</span>
+                                        </div><!-- /food-details -->
+                                    </div><!-- /food -->
+                                    <div class="food">
+                                        <div class="food-desc">
+                                            <h6 class="food-name">Tẩy nốt ruồi</h6>
+                                            <div class="dots"></div>
+                                            <div class="food-price">
+                                                <span>50k</span>
+                                            </div><!-- /food-price -->
+                                        </div><!-- /food-desc -->
+                                        <div class="food-details">
+                                            <span>Liệu trình 10 buổi & bảo hành trọn đời</span>
+                                        </div><!-- /food-details -->
+                                    </div><!-- /food -->
+                                </div><!-- /menu-column -->
+                            </div><!-- /col-md-6 -->
+                        </div>
+                    </div><!-- /menu-carousel -->
+                    <div class="menu row">
+                        <div class="col-md-6 wow fadeInRight animated"
+                            style="visibility: visible; animation-name: fadeInRight;">
+                            <div class="menu-column">
+                            <h1 class="highlight-text" style="text-align: center; color: rgba(114, 38, 38, 1)" >Chăm sóc toàn thân</h1>
+                                <div class="food">
+                                    <div class="food-desc">
+                                        <h6 class="food-name">Massage body</h6>
+                                        <div class="dots"></div>
+                                        <div class="food-price">
+                                            <span>250k-2000k</span>
+                                        </div><!-- /food-price -->
+                                    </div><!-- /food-desc -->
+                                    <div class="food-details">
+                                        <span>Liệu trình 10 buổi & bảo hành trọn đời</span>
+                                    </div><!-- /food-details -->
+                                </div><!-- /food -->
+                                <div class="food">
+                                    <div class="food-desc">
+                                        <h6 class="food-name">Massage bầu</h6>
+                                        <div class="dots"></div>
+                                        <div class="food-price">
+                                            <span>250k-2000k</span>
+                                        </div><!-- /food-price -->
+                                    </div><!-- /food-desc -->
+                                    <div class="food-details">
+                                        <span>Liệu trình 10 buổi & bảo hành trọn đời</span>
+                                    </div><!-- /food-details -->
+                                </div><!-- /food -->
+                                <div class="food">
+                                    <div class="food-desc">
+                                        <h6 class="food-name">Massage cổ vai gáy</h6>
+                                        <div class="dots"></div>
+                                        <div class="food-price">
+                                            <span>120k</span>
+                                        </div><!-- /food-price -->
+                                    </div><!-- /food-desc -->
+                                    <div class="food-details">
+                                        <span>Liệu trình 10 buổi & bảo hành trọn đời</span>
+                                    </div><!-- /food-details -->
+                                </div><!-- /food -->
+                                <div class="food">
+                                    <div class="food-desc">
+                                        <h6 class="food-name">Tẩy da chết body</h6>
+                                        <div class="dots"></div>
+                                        <div class="food-price">
+                                            <span>150k</span>
+                                        </div><!-- /food-price -->
+                                    </div><!-- /food-desc -->
+                                    <div class="food-details">
+                                        <span>Liệu trình 10 buổi & bảo hành trọn đời</span>
+                                    </div><!-- /food-details -->
+                                </div><!-- /food -->
+                                <div class="food">
+                                    <div class="food-desc">
+                                        <h6 class="food-name">Tắm trắng vàng nano</h6>
+                                        <div class="dots"></div>
+                                        <div class="food-price">
+                                            <span>6000k</span>
+                                        </div><!-- /food-price -->
+                                    </div><!-- /food-desc -->
+                                    <div class="food-details">
+                                        <span>Liệu trình 10 buổi & bảo hành trọn đời</span>
+                                    </div><!-- /food-details -->
+                                </div><!-- /food -->
+                            </div><!-- /menu-column -->
+                        </div><!-- /col-md-6 -->
+                        <div class="col-md-6 wow fadeInLeft animated"
+                            style="visibility: visible; animation-name: fadeInLeft;">
+                            <div class="menu-column">
+                                <h1 class="highlight-text" style="text-align: center; color: rgba(114, 38, 38, 1)" >Giảm béo</h1>
+                                    <div class="food">
+                                        <div class="food-desc">
+                                            <h6 class="food-name">Giảm béo bụng Lipo Action</h6>
+                                            <div class="dots"></div>
+                                            <div class="food-price">
+                                                <span>4000k</span>
+                                            </div><!-- /food-price -->
+                                        </div><!-- /food-desc -->
+                                        <div class="food-details">
+                                            <span>Liệu trình 10 buổi & bảo hành trọn đời</span>
+                                        </div><!-- /food-details -->
+                                    </div><!-- /food -->
+                                    <div class="food">
+                                        <div class="food-desc">
+                                            <h6 class="food-name">Giảm béo bụng Lipo Cavition</h6>
+                                            <div class="dots"></div>
+                                            <div class="food-price">
+                                                <span>7000k</span>
+                                            </div><!-- /food-price -->
+                                        </div><!-- /food-desc -->
+                                        <div class="food-details">
+                                            <span>Liệu trình 10 buổi & bảo hành trọn đời</span>
+                                        </div><!-- /food-details -->
+                                    </div><!-- /food -->
+                                    <div class="food">
+                                        <div class="food-desc">
+                                            <h6 class="food-name">Giảm béo bắp chân Lipo Cavition</h6>
+                                            <div class="dots"></div>
+                                            <div class="food-price">
+                                                <span>6000k</span>
+                                            </div><!-- /food-price -->
+                                        </div><!-- /food-desc -->
+                                        <div class="food-details">
+                                            <span>Liệu trình 10 buổi & bảo hành trọn đời</span>
+                                        </div><!-- /food-details -->
+                                    </div><!-- /food -->
+                                    <div class="food">
+                                        <div class="food-desc">
+                                            <h6 class="food-name">Giảm béo bắp tay Lipo Cavition</h6>
+                                            <div class="dots"></div>
+                                            <div class="food-price">
+                                                <span>5000k</span>
+                                            </div><!-- /food-price -->
+                                        </div><!-- /food-desc -->
+                                        <div class="food-details">
+                                            <span>Liệu trình 10 buổi & bảo hành trọn đời</span>
+                                        </div><!-- /food-details -->
+                                    </div><!-- /food -->
+                                </div><!-- /menu-column -->
+                            </div><!-- /col-md-6 -->
+                            </div>
+                        </div>
+                    </div><!-- /menus-container -->
         </div><!-- /container -->
     </section>
 

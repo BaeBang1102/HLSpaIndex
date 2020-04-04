@@ -49,7 +49,7 @@
                 <div class="collapse navbar-toggleable-sm" id="collapsingNavbar">
                     <ul class="nav navbar-nav">
                         <li class="active">
-                            <a href="#slider">TRANG CHỦ</a>
+                            <a href="index.php">TRANG CHỦ</a>
                         </li>
                         <li>
                             <a href="#about">VỀ CHÚNG TÔI</a>
@@ -207,30 +207,36 @@
                         <div class="col-md-4 col-sm-4 col-xs-12 text-xs-center wow fadeInDown" data-wow-delay=".2s">
                             <div class="service-box">
                                 <div class="icon">
-                                    <h3>Hair Salon</h3>
+                                    <h3><a href="salon_price.php">Hair Salon</a></h3>
                                 </div>
                                 <p>Tạo mẫu tóc chuyên nghiệp</p>
+                                <a href="salon_price.php">
                                 <img src="images/breakfast.jpg" alt="Custom Image">
+                                </a>                            
                             </div>
                         </div>
                         <div class="col-md-4 col-sm-4 col-xs-12 text-xs-center wow fadeInDown" data-wow-delay=".2s">
                             <div class="service-box">
                                 <div class="icon">
-                                    <h3>Spa</h3>
+                                    <h3><a href="spa_price.php"></a> Spa</h3>
                                 </div>
 
                                 <p>Chăm sóc da, giảm béo và phun xăm thẩm mỹ</p>
+                                <a href="spa_price.php">
                                 <img src="images/lunch.jpg" alt="Custom Image">
+                                </a>
                             </div>
                         </div>
                         <div class="col-md-4 col-sm-4 col-xs-12 text-xs-center wow fadeInDown" data-wow-delay=".2s">
                             <div class="service-box">
                                 <div class="icon">
-                                    <h3>Make up </h3>
+                                    <h3><a href="makeup_price.php"></a> Make up </h3>
                                 </div>
 
                                 <p>Trang điểm chuyên nghiệp</p>
+                                <a href="makeup_price.php">
                                 <img src="images/dinner.jpg" alt="Custom Image">
+                                </a>
                             </div>
                         </div>
 
@@ -241,158 +247,7 @@
         </div>
     </section>
 
-    <section class="menus style3" id="menuCard">
-        <div class="container">
-            <div class="row">
 
-                <!-- Section Header -->
-                <div class="col-md-12 col-sm-12 col-xs-12 section-header wow fadeInDown">
-                    <h2><span class="highlight-text">Bảng giá dịch vụ</span></h2>
-
-                    <p class="col-md-8 col-sm-10 col-xs-12 col-md-offset-2 col-sm-offset-1">Lorem ipsum dolor sit amet,
-                        consectetur adipisicing elit. Quod, nam corporis quas, saepe minima error aperiam dolorum
-                        aliquam, quis deserunt eos eius quisquam odio itaque.</p>
-                </div>
-                <!-- Section Header End -->
-
-                <div class="menus-container">
-                    <!-- menu -->
-                    <div class="menu row">
-                        <div class="col-md-6 wow fadeInRight animated"
-                            style="visibility: visible; animation-name: fadeInRight;">
-                            <div class="menu-column">
-                                <div class="food">
-                                    <div class="food-desc">
-                                        <h6 class="food-name">Swedish Massage</h6>
-                                        <div class="dots"></div>
-                                        <div class="food-price">
-                                            <span>5.00</span>
-                                        </div><!-- /food-price -->
-                                    </div><!-- /food-desc -->
-                                    <div class="food-details">
-                                        <span>Lorem ipsum dolor sit amet</span>
-                                    </div><!-- /food-details -->
-                                </div><!-- /food -->
-                                <div class="food">
-                                    <div class="food-desc">
-                                        <h6 class="food-name">Deep Tissue Massage</h6>
-                                        <div class="dots"></div>
-                                        <div class="food-price">
-                                            <span>16.00</span>
-                                        </div><!-- /food-price -->
-                                    </div><!-- /food-desc -->
-                                    <div class="food-details">
-                                        <span>Lorem ipsum dolor sit amet</span>
-                                    </div><!-- /food-details -->
-                                </div><!-- /food -->
-                                <div class="food">
-                                    <div class="food-desc">
-                                        <h6 class="food-name">Shiatsu Massage</h6>
-                                        <div class="dots"></div>
-                                        <div class="food-price">
-                                            <span>22.00</span>
-                                        </div><!-- /food-price -->
-                                    </div><!-- /food-desc -->
-                                    <div class="food-details">
-                                        <span>Lorem ipsum dolor sit amet</span>
-                                    </div><!-- /food-details -->
-                                </div><!-- /food -->
-                                <div class="food">
-                                    <div class="food-desc">
-                                        <h6 class="food-name">Hot Stone Massage</h6>
-                                        <div class="dots"></div>
-                                        <div class="food-price">
-                                            <span>22.00</span>
-                                        </div><!-- /food-price -->
-                                    </div><!-- /food-desc -->
-                                    <div class="food-details">
-                                        <span>Lorem ipsum dolor sit amet</span>
-                                    </div><!-- /food-details -->
-                                </div><!-- /food -->
-                                <div class="food">
-                                    <div class="food-desc">
-                                        <h6 class="food-name">Foot Reflexology Spa</h6>
-                                        <div class="dots"></div>
-                                        <div class="food-price">
-                                            <span>15.00</span>
-                                        </div><!-- /food-price -->
-                                    </div><!-- /food-desc -->
-                                    <div class="food-details">
-                                        <span>Lorem ipsum dolor sit amet</span>
-                                    </div><!-- /food-details -->
-                                </div><!-- /food -->
-                            </div><!-- /menu-column -->
-                        </div><!-- /col-md-6 -->
-                        <div class="col-md-6 wow fadeInLeft animated"
-                            style="visibility: visible; animation-name: fadeInLeft;">
-                            <div class="menu-column">
-                                <div class="food">
-                                    <div class="food-desc">
-                                        <h6 class="food-name">Body Scrub</h6>
-                                        <div class="dots"></div>
-                                        <div class="food-price">
-                                            <span>5.00</span>
-                                        </div><!-- /food-price -->
-                                    </div><!-- /food-desc -->
-                                    <div class="food-details">
-                                        <span>Lorem ipsum dolor sit amet</span>
-                                    </div><!-- /food-details -->
-                                </div><!-- /food -->
-                                <div class="food">
-                                    <div class="food-desc">
-                                        <h6 class="food-name">Massage Lime</h6>
-                                        <div class="dots"></div>
-                                        <div class="food-price">
-                                            <span>16.00</span>
-                                        </div><!-- /food-price -->
-                                    </div><!-- /food-desc -->
-                                    <div class="food-details">
-                                        <span>Lorem ipsum dolor sit amet</span>
-                                    </div><!-- /food-details -->
-                                </div><!-- /food -->
-                                <div class="food">
-                                    <div class="food-desc">
-                                        <h6 class="food-name">Couples Massage</h6>
-                                        <div class="dots"></div>
-                                        <div class="food-price">
-                                            <span>22.00</span>
-                                        </div><!-- /food-price -->
-                                    </div><!-- /food-desc -->
-                                    <div class="food-details">
-                                        <span>Lorem ipsum dolor sit amet</span>
-                                    </div><!-- /food-details -->
-                                </div><!-- /food -->
-                                <div class="food">
-                                    <div class="food-desc">
-                                        <h6 class="food-name">Deep Tissue</h6>
-                                        <div class="dots"></div>
-                                        <div class="food-price">
-                                            <span>22.00</span>
-                                        </div><!-- /food-price -->
-                                    </div><!-- /food-desc -->
-                                    <div class="food-details">
-                                        <span>Lorem ipsum dolor sit amet</span>
-                                    </div><!-- /food-details -->
-                                </div><!-- /food -->
-                                <div class="food">
-                                    <div class="food-desc">
-                                        <h6 class="food-name">Facial Massage</h6>
-                                        <div class="dots"></div>
-                                        <div class="food-price">
-                                            <span>15.00</span>
-                                        </div><!-- /food-price -->
-                                    </div><!-- /food-desc -->
-                                    <div class="food-details">
-                                        <span>Lorem ipsum dolor sit amet</span>
-                                    </div><!-- /food-details -->
-                                </div><!-- /food -->
-                            </div><!-- /menu-column -->
-                        </div><!-- /col-md-6 -->
-                    </div><!-- /row -->
-                </div><!-- /menu-carousel -->
-            </div><!-- /menus-container -->
-        </div><!-- /container -->
-    </section>
 
 
     <section id="portfolio" class="bgSection portfolio-section">

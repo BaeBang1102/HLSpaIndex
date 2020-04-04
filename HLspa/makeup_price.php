@@ -148,7 +148,7 @@
 
                 <!-- Section Header -->
                 <div class="col-md-12 col-sm-12 col-xs-12 section-header wow fadeInDown">
-                    <h2><span class="highlight-text">Bảng giá dịch vụ Salon</span></h2>
+                    <h2><span class="highlight-text">Bảng giá dịch vụ Make Up</span></h2>
 
                     <!-- <p class="col-md-8 col-sm-10 col-xs-12 col-md-offset-2 col-sm-offset-1">Liệu trình 10 buổi & bảo hành trọn đời,
                         consectetur adipisicing elit. Quod, nam corporis quas, saepe minima error aperiam dolorum
@@ -165,43 +165,7 @@
                             <div class="menu-column">
                                 <div class="food">
                                     <div class="food-desc">
-                                        <h6 class="food-name">Cắt tóc</h6>
-                                        <div class="dots"></div>
-                                        <div class="food-price">
-                                            <span>50k</span>
-                                        </div><!-- /food-price -->
-                                    </div><!-- /food-desc -->
-                                    <div class="food-details">
-                                        <span>Liệu trình 10 buổi & bảo hành trọn đời</span>
-                                    </div><!-- /food-details -->
-                                </div><!-- /food -->
-                                <div class="food">
-                                    <div class="food-desc">
-                                        <h6 class="food-name">Gội đầu</h6>
-                                        <div class="dots"></div>
-                                        <div class="food-price">
-                                            <span>30k</span>
-                                        </div><!-- /food-price -->
-                                    </div><!-- /food-desc -->
-                                    <div class="food-details">
-                                        <span>Liệu trình 10 buổi & bảo hành trọn đời</span>
-                                    </div><!-- /food-details -->
-                                </div><!-- /food -->
-                                <div class="food">
-                                    <div class="food-desc">
-                                        <h6 class="food-name">Combo gội đầu massage</h6>
-                                        <div class="dots"></div>
-                                        <div class="food-price">
-                                            <span>40k</span>
-                                        </div><!-- /food-price -->
-                                    </div><!-- /food-desc -->
-                                    <div class="food-details">
-                                        <span>Liệu trình 10 buổi & bảo hành trọn đời</span>
-                                    </div><!-- /food-details -->
-                                </div><!-- /food -->
-                                <div class="food">
-                                    <div class="food-desc">
-                                        <h6 class="food-name">Chấm chân phủ bạc</h6>
+                                        <h6 class="food-name">Trang điểm nhẹ nhàng</h6>
                                         <div class="dots"></div>
                                         <div class="food-price">
                                             <span>100k</span>
@@ -213,22 +177,10 @@
                                 </div><!-- /food -->
                                 <div class="food">
                                     <div class="food-desc">
-                                        <h6 class="food-name">Tẩy tóc</h6>
+                                        <h6 class="food-name">Trang điểm tiệc</h6>
                                         <div class="dots"></div>
                                         <div class="food-price">
-                                            <span>800k-1000k</span>
-                                        </div><!-- /food-price -->
-                                    </div><!-- /food-desc -->
-                                    <div class="food-details">
-                                        <span>Liệu trình 10 buổi & bảo hành trọn đời</span>
-                                    </div><!-- /food-details -->
-                                </div><!-- /food -->
-                                <div class="food">
-                                    <div class="food-desc">
-                                        <h6 class="food-name">Nhuộm tóc</h6>
-                                        <div class="dots"></div>
-                                        <div class="food-price">
-                                            <span>200k-500k</span>
+                                            <span>200k</span>
                                         </div><!-- /food-price -->
                                     </div><!-- /food-desc -->
                                     <div class="food-details">
@@ -242,43 +194,7 @@
                             <div class="menu-column">
                                 <div class="food">
                                     <div class="food-desc">
-                                        <h6 class="food-name">Làm tóc xoăn ngắn</h6>
-                                        <div class="dots"></div>
-                                        <div class="food-price">
-                                            <span>400k</span>
-                                        </div><!-- /food-price -->
-                                    </div><!-- /food-desc -->
-                                    <div class="food-details">
-                                        <span>Liệu trình 10 buổi & bảo hành trọn đời</span>
-                                    </div><!-- /food-details -->
-                                </div><!-- /food -->
-                                <div class="food">
-                                    <div class="food-desc">
-                                        <h6 class="food-name">Làm tóc xoăn dài</h6>
-                                        <div class="dots"></div>
-                                        <div class="food-price">
-                                            <span>500k</span>
-                                        </div><!-- /food-price -->
-                                    </div><!-- /food-desc -->
-                                    <div class="food-details">
-                                        <span>Liệu trình 10 buổi & bảo hành trọn đời</span>
-                                    </div><!-- /food-details -->
-                                </div><!-- /food -->
-                                <div class="food">
-                                    <div class="food-desc">
-                                        <h6 class="food-name">Ép tóc</h6>
-                                        <div class="dots"></div>
-                                        <div class="food-price">
-                                            <span>500k</span>
-                                        </div><!-- /food-price -->
-                                    </div><!-- /food-desc -->
-                                    <div class="food-details">
-                                        <span>Liệu trình 10 buổi & bảo hành trọn đời</span>
-                                    </div><!-- /food-details -->
-                                </div><!-- /food -->
-                                <div class="food">
-                                    <div class="food-desc">
-                                        <h6 class="food-name">Dập xù</h6>
+                                        <h6 class="food-name">Trang điểm mẹ chồng, mẹ vợ</h6>
                                         <div class="dots"></div>
                                         <div class="food-price">
                                             <span>200k</span>
@@ -290,10 +206,10 @@
                                 </div><!-- /food -->
                                 <div class="food">
                                     <div class="food-desc">
-                                        <h6 class="food-name">Ép vỏ</h6>
+                                        <h6 class="food-name">Trang điểm cô dâu</h6>
                                         <div class="dots"></div>
                                         <div class="food-price">
-                                            <span>200k</span>
+                                            <span>300k-500k</span>
                                         </div><!-- /food-price -->
                                     </div><!-- /food-desc -->
                                     <div class="food-details">
@@ -307,6 +223,7 @@
         </div><!-- /container -->
     </section>
 
+    <!-- Contact section -->
     <section id="contact" class="section-wrapper contact-section" data-stellar-background-ratio="0.5">
         <div class="parallax-overlay"></div>
         <div class="container">
@@ -357,10 +274,6 @@
                 </div>
             </div>
     </section>
-
-
-
-
     <!-- Contact Section End -->
     <section class="footer-container">
         <div class="container">
